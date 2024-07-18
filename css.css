@@ -1,0 +1,11 @@
+body{
+    background-image: url(./bag2.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+.puma{
+    height: 45vh;
+    font-weight: 50px;
+    
+}
